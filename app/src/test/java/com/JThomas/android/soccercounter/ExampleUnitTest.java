@@ -1,4 +1,4 @@
-package com.example.android.soccercounter;
+package com.JThomas.android.soccercounter;
 
 import org.junit.Test;
 
